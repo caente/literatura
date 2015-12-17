@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "inmortalmente"
-description: "(o la tirania de la "i")"
+description: ""
 category:
 tags: []
 ---
