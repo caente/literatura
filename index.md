@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deja que el idioma se haga cargo
-tagline: Supporting tagline
+tagline: el pozo es profundo e inescrutable
 ---
 {% include JB/setup %}
 
