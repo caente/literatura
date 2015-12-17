@@ -1,11 +1,11 @@
 
-http://username.github.io/archive
-http://username.github.io/atom.xml
-http://username.github.io/categories
-http://username.github.io/
-http://username.github.io/pages
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags
+http://caente.github.io/literatura/archive
+http://caente.github.io/literatura/atom.xml
+http://caente.github.io/literatura/categories
+http://caente.github.io/literatura/
+http://caente.github.io/literatura/pages
+http://caente.github.io/literatura/rss.xml
+http://caente.github.io/literatura/sitemap.txt
+http://caente.github.io/literatura/tags
 
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://caente.github.io/literatura/lessons/2011/12/29/jekyll-introduction
