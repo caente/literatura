@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Deja que el idioma se haga cargo
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
