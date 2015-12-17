@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "homosapiens"
+title: "HOMOSAPIENS"
 description: ""
 category:
 tags: []
 ---
 {% include JB/setup %}
-HOMO SAPIENS
-
 
 Ha vivido por siempre.
 

@@ -1,4 +1,11 @@
-PALEONTOLOGÍA
+---
+layout: post
+title: "paleontologia"
+description: ""
+category:
+tags: []
+---
+{% include JB/setup %}
 
 Abro la primera gaveta de mi escritorio.
 Acumula viejas imitaciones,
@@ -18,5 +25,3 @@ de todo lo que nunca comenzó y fue enorme.
 
 En aquellos tres confines de madera, memorizados,
 dejo de ser humano y transfiguro la realidad en tartamudas fantasías.
-
-

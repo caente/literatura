@@ -1,5 +1,11 @@
-INMORTALMENTE
-(o la tirania de la "i")
+---
+layout: post
+title: "inmortalmente"
+description: "(o la tirania de la "i")"
+category:
+tags: []
+---
+{% include JB/setup %}
 
 Mi inexistencia es única, inconfundible.
 Mi legado es retorico e indescifrable.
@@ -11,5 +17,3 @@ hacia dormitorios y olores húmedos.
 
 Vivo como en un verano infinito
 de brisas improbables y tormentos inescrutables.
-
-
